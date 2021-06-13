@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Netflix</string>
+    <string name="titulo_House_of_Cards">House of Cards</string>
+    <string name="indicacao_temporada">S2:E5</string>
+</resources>
