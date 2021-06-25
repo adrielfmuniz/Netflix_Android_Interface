@@ -6,5 +6,4 @@ Interface Netflix (parte do vídeo) | **Java** <a href="https://www.eclipse.org/
 
 
 <h3 align="center">Interface Preview</h3>
-<p align="center"> <a target="_blank"> <img src="https://github.com/adrielfmuniz/FlappyGame/blob/main/Flappy%20Alt/Assets/flappyLara.gif" alt="Flappy_Lara" width="304" height="640"/> </a>
-
+<p align="center"> <a target="_blank"> <img src="https://github.com/adrielfmuniz/Netflix_Android_Interface/blob/main/Netflix%20Android%20Interface%20preview.jpeg" alt="Netflix Interface" width="688" height="1280"/> </a>
